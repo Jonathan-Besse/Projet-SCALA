@@ -35,8 +35,8 @@ Projet à rendre pour le 25/03 à 18h00
      <br>
 <div align = "center">
      Structures de données. Vous devrez définir <br>
-<div>
 </div>
+<div>
      <ul list-style = "none">
           <li>
       un type de donnéesRational pour représenter les nombres rationnels,ainsi qu’une classe annexeRationalIsFractionalqui implémenterale <br>  traitScala.math.Fractional[Rational], afin de fournir des opé-rations numérique sur le type <br>
