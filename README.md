@@ -27,10 +27,8 @@ Projet à rendre pour le 25/03 à 18h00
           </li>
           <li>
       fonction pour calculer la limite d’une fonction en un point (à droiteou à gauche). <br>
-          </li>
-          <li>
      Pour cette fonction, il faudra définir un type qui étendeles rationnels avec deux valeurs+∞et−∞.
-          </li>
+         </li>
      </ul>
 </div>
      <br> 
